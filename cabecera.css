@@ -1,0 +1,19 @@
+ .fondoCabecera {
+     background-image:url('Imagenes/cabecera.jpg');
+     height:500px;
+             background-repeat: no-repeat;
+             background-size: 100% 100%;
+             border-bottom: 0px
+            
+             
+    }
+    .texto{
+        font-size: 1rem;
+        margin:0;
+        padding: 0 1 rem;
+        position: absolute;
+        top:50%;
+        vertical-align: middle;
+    }
+    
+    
